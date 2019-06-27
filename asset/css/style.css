@@ -17,7 +17,7 @@ header {
 }
 
 .logo {
-    background: url("../asset/videos/Welcome.mp4")
+    background: url("../images/me.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +32,7 @@ header {
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
-    color: #fff;
+    color: #D3D3D3;
 }
 
 .title {
@@ -41,5 +41,5 @@ header {
     font-size: 28px;
     margin-top: 20px;
     margin-bottom: 90px;
-    color: #fff;
+    color: #D3D3D3;
 }
