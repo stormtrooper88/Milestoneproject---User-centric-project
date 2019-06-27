@@ -8,6 +8,40 @@
 
 /* -------------------------------Heading */
 
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Exo", sans-serif;
+    font-size: 16px;
+}
+
+#menubar,
+#menubar ul{
+    list-style: none;
+}
+
+#menubar>li{
+    float: center;
+}  
+
+#menubar li a{
+    display: block;
+    height: 20px;
+    width: 110px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#menubar>li>a{
+    background-color: #6494ed;
+    color: #fff;
+}
+
+#menubar li a:hover {
+    background-color: #5884d6;
+    color: #fff;
+}
+
 header {
     margin: 0;
 }
@@ -17,7 +51,7 @@ header {
 }
 
 .logo {
-    background: url("../images/me.jpg");
+    background: url("../images/me.jpg") no-repeat fixed;
     background-size: contain;
     min-height: 360px;
     -webkit-transition: all .5s ease-in-out;
