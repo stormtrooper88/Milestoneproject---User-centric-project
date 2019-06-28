@@ -1,6 +1,6 @@
-Master Personal Trainer 
+Full Stack Web Developer 
 One or two paragraphs providing an overview of your project. 
-The overview of the project "Master Personal Trainer" is to create a website focued on personal training and nutrition. the website will offer bespoke personal training and nutritional guidance from a fully qualified and experienced personal trainer. The website will aim to be user friendly for the client so that all information is available and set out clearly.
+The overview of the project "Full Stack Web Developer" is to create a website focued on personal training and nutrition. the website will offer bespoke personal training and nutritional guidance from a fully qualified and experienced personal trainer. The website will aim to be user friendly for the client so that all information is available and set out clearly.
 
 The website will have the following information: qualifications, what I can offer, testimonials and a contact form. The set up is thus that there will be a short welcoming message as well images of weights and nutrition. The users story of the website would be that they are acitivetly looking to get in better shape. The website layout is simple and user friendly. 
 
@@ -63,6 +63,7 @@ Credits
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media
-The photos used in this site were obtained from ...
+The photos and video used in this website is from my own pictures and recording.
 Acknowledgements
-I received inspiration for this project from X
+I would like to acknowledge the code institute mini-project and also 
+hschafer2017 (https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive)

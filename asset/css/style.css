@@ -6,6 +6,33 @@
     background-color: #676767;
 }
 
+/*----------NAVBAR---------*/
+
+.navbar {
+    background: none;
+    text-transform: uppercase;
+    background-color: transparent;
+}
+
+/*----------special paddings/margins/text---------*/
+
+h1,
+h2,
+h3,
+h5 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    
+}
+
+.general-sub {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #008000;
+}
 /* -------------------------------Heading */
 
 #landing-view {
@@ -46,4 +73,48 @@ header {
     margin-top: 20px;
     margin-bottom: 90px;
     color: #D3D3D3;
+}
+
+/*----------My Skills---------*/
+
+/*----------Contact form---------*/
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="sumbit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #fafafa;
+    background-color: #FF0000;
+}
+
+/*----------Media queries---------*/
+
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+    }
+}
+
+/*----------Footer---------*/
+
+footer {
+    background-color: #D3D3D3;
+    color: 	#000000;
+    min-height: 120px;
+    margin: 0;
 }
