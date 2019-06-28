@@ -15,31 +15,6 @@
     z-index: 1;
 }
 
-#menubar,
-#menubar ul{
-    list-style: none;
-}
-
-#menubar>li{
-}  
-
-#menubar li a{
-    display: block;
-    height: 20px;
-    width: 110px;
-    padding: 10px;
-    text-decoration: none;
-}
-
-#menubar>li>a{
-    background-color: #6494ed;
-    color: #fff;
-}
-
-#menubar li a:hover {
-    background-color: #5884d6;
-    color: #fff;
-}
 
 header {
     margin: 0;
