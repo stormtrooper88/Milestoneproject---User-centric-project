@@ -2,6 +2,14 @@
 
 /* -------------------------------Colors */
 
+body {
+    background-color: #D3D3D3;
+    background-image: url("../images/me.jpg");
+    background-size: cover;
+    background-attachment: cover;
+    
+}
+
 .bg-color-name-title {
     background-color: #676767;
 }
@@ -63,7 +71,7 @@ header {
 
 .logo {
     background: url("../images/me.jpg") no-repeat fixed;
-    background-size: contain;
+    background-size: cover;
     min-height: 360px;
     -webkit-transition: all .5s ease-in-out;
 }
@@ -84,36 +92,32 @@ header {
     margin-bottom: 90px;
     color: #D3D3D3;
 }
-
 /*----------About Me---------*/
+
+#About-Me {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%)
+    text-align: center;
+}
+
+.about-p {
+      position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%)
+    text-align: center;
+}
+
+
+/*----------My skills---------*/
 
 * {
     margin: 0;
     padding: 0;
 }
 
-.wrapper {
-    margin: 0 auto;
-    width: 1000px;
-}
-
-/*----------My Skills---------*/
-
-.wrapper {
-    width: 80px;
-    margin: 0 auto;
-    
-}
-
-.wrapper h1 {
-    text-align: center;
-    text-transform: uppercase;
-    margin-top: 40px;
-}
-
-.wrapper h2 {
-    text-align: left;
-}
 
 .line {
     height: 25px;
@@ -196,7 +200,7 @@ button[type="sumbit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
-    background-color: #FF0000;
+    background-color: #D3D3D3;
 }
 
 /*----------Media queries---------*/
@@ -222,8 +226,8 @@ button[type="sumbit"] {
 }
 
 #footer {
-    background-color: #D3D3D3;
-    color: 	#000000;
+    
+    color: 	#D3D3D3;
    position: relative;
    height: 100px;
    margin-top: -100px;
