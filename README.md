@@ -1,10 +1,10 @@
-Full Stack Web Developer 
-One or two paragraphs providing an overview of your project. 
-The overview of the project "Full Stack Web Developer" is to create a website focued on personal training and nutrition. the website will offer bespoke personal training and nutritional guidance from a fully qualified and experienced personal trainer. The website will aim to be user friendly for the client so that all information is available and set out clearly.
+User-Centric Frontend Development project - Code Institute – By Thomas Christian Butcher
 
-The website will have the following information: qualifications, what I can offer, testimonials and a contact form. The set up is thus that there will be a short welcoming message as well images of weights and nutrition. The users story of the website would be that they are acitivetly looking to get in better shape. The website layout is simple and user friendly. 
+The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the courses I am undertaking, those I have completed, some information about myself and finally a contact form if you wish to contact me. 
 
-Essentially, this part is your sales pitch.
+
+
+
 
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -14,23 +14,28 @@ In particular, as part of this section we recommend that you provide a list of U
 As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
+My goal in the design of this site was to make it user-friendly to future employers whilst informing them about myself and what I have accomplished so far. The idea is to give the reader an outlook on who I am and what I have accomplished. The welcome caption with a contact me link allows the user to go directly to the contact form. The navbar allows the user to go through the site and return to parts they may not have seen. The next section is about me with a video containing someone typing to the right / left of the text about myself. The next section demonstrates what I have done so far regarding coding. Below this you will find a contact me form where you can complete it and I will receive the message. At the footer I have a link to my LinkedIn account. The greyscale colour scheme was chosen as it went well with my picture and created a silk look to the work. 
+
+You can find my wireframes in my GitHub repository as I changed them throughout the project. 
+
+Technologies
+1.	HTML
+2.	CSS
+3.	Bootstrap Version 4.3.1
+4.	https://www.youtube.com/watch?v=05ZHUuQVvJM
+
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+This site uses the sticky navbar feature from bootstrap which does two things: firstly the nav-bar will follow the user down the page and secondly if you click on a certain section then you will directed to it immediately. 
 
 Features Left to Implement
-Another feature idea
+I would like to have different languages in the menu bar as I speak French and Danish. 
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+1.	Bootstrap Version 4.3.1 https://getbootstrap.com/
+2.	How To Add a Video Background with HTML & CSS https://www.youtube.com/watch?v=05ZHUuQVvJM
+3.	HTML5 and CSS3 beginner tutorial 18 – background images{Part 2} https://www.youtube.com/watch?v=xNg2rh_h5v8
+4.	How to add text over image - HTML and CSS https://www.youtube.com/watch?v=edCuCED3Zmo
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
 Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -47,6 +52,13 @@ In addition, you should mention in this section how your project looks and works
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
+I am currently having trouble with my video being loaded onto the page. This is video is a welcome message and so should be seen regularly. – This has since been resolved but now the video isn’t playing. 
+
+I have had problems moving my nav bar to the middle which through watching videos on how to edit this I was able to change it. (insert link)
+I cannot seem to place my footer at the bottom and middle of the page. 
+
+The links I have in my footer are not linking with their respective sites. 
+
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Deployment
@@ -61,9 +73,11 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+All content is written by and the picture was taken by me. 
 Media
-The photos and video used in this website is from my own pictures and recording.
+The photo used in this website is from my own pictures. The video was found on the following site: https://www.videvo.net/video/typing-in-the-dark-03/4478/
 Acknowledgements
-I would like to acknowledge the code institute mini-project and also 
+I would like to acknowledge the code institute mini-project and 
 hschafer2017 (https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive)
+
+I would also like to acknowledge https://www.videvo.net/video/typing-in-the-dark-03/4478/ for providing the free video footage of someone typing. 
