@@ -3,10 +3,8 @@ User-Centric Frontend Development project - Code Institute – By Thomas Christi
 The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the courses I am undertaking, those I have completed, some information about myself and finally a contact form if you wish to contact me. 
 
 
-
-
-
 UX
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
@@ -28,8 +26,11 @@ Features
 This site uses the sticky navbar feature from bootstrap which does two things: firstly the nav-bar will follow the user down the page and secondly if you click on a certain section then you will directed to it immediately. 
 
 Features Left to Implement
+
 I would like to have different languages in the menu bar as I speak French and Danish. 
+
 Technologies Used
+
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 1.	Bootstrap Version 4.3.1 https://getbootstrap.com/
 2.	How To Add a Video Background with HTML & CSS https://www.youtube.com/watch?v=05ZHUuQVvJM
@@ -37,6 +38,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
 4.	How to add text over image - HTML and CSS https://www.youtube.com/watch?v=edCuCED3Zmo
 
 Testing
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
@@ -62,6 +64,7 @@ The links I have in my footer are not linking with their respective sites.
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Deployment
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -72,11 +75,17 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 Credits
+
 Content
+
 All content is written by and the picture was taken by me. 
+
 Media
+
 The photo used in this website is from my own pictures. The video was found on the following site: https://www.videvo.net/video/typing-in-the-dark-03/4478/
+
 Acknowledgements
+
 I would like to acknowledge the code institute mini-project and 
 hschafer2017 (https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive)
 
