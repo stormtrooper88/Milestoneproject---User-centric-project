@@ -32,14 +32,6 @@ body {
 margin:0 auto;
 }
 
-/*----------Jumbotron---------*/
-
-.jumbotron {
-    margin-bottom: 2rem;
-    background-color: #e9ecef;
-    border-radius: .3rem;
-}
-
 
 /*----------special paddings/margins/text---------*/
 
@@ -66,7 +58,7 @@ h5 {
     background-attachment: fixed;
     background-size: cover;
     z-index: 1;
-    background-color: none !important;
+    background-color: transparent;
 }
 
 
@@ -164,15 +156,15 @@ header {
 }
 
 .line1:after {
-    max-width: 90%
+    max-width: 100%
 }
 
 .line2:after {
-    max-width: 80%;
+    max-width: 100%;
 }
 
 .line3:after {
-    max-width: 75%;
+    max-width: 80%;
 }
 
 .line4:after {
