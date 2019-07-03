@@ -94,21 +94,8 @@ header {
 }
 /*----------About Me---------*/
 
-#About-Me {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translateX(-50%) translateY(-50%)
-    text-align: center;
-}
 
-.about-p {
-      position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translateX(-50%) translateY(-50%)
-    text-align: center;
-}
+
 
 
 /*----------My skills---------*/
