@@ -106,6 +106,9 @@ header {
 }
 
 
+.myskills {
+    padding: 25px;
+}
 .line {
     height: 25px;
     min-width: 800px;
