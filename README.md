@@ -52,14 +52,23 @@ Try to submit the form with an invalid email address and verify that a relevant 
 Try to submit the form with all inputs valid and verify that a success message appears.
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
+I have tested the links at the top of the page to ensure that they direct the user to that specific section of the site. 
+
+I have tested the "contact me" button link to ensure that it takes the user to the contact form at the bottom of the page. 
+
+I have gone to the "contact me" page and tried to submit without completing the name section. Upon clicking the send message button, a yellow mark pops up and states that the user must fill out the name section before being able to send the message. 
+I have then filled in the name and left out the email. Upon clicking the send message button, a yellow mark pops up and states that the user must fill out the name section before being able to send the message. I have also tested inputting a random set of letters into the email section and then receive a notice stating that the @ is missing from the email section. I have tried simply entering the @ however I am told I must enter a part after the @. 
+Once I have filled in both the name and email section of the form, I am told that my message won't send until a message has been written. 
+With all the information filled in, the page reloads and the contact me form is blank again. 
+
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-I am currently having trouble with my video being loaded onto the page. This is video is a welcome message and so should be seen regularly. – This has since been resolved but now the video isn’t playing. 
+I am currently having trouble with my video being loaded onto the page. This is video is a welcome message and so should be seen regularly. – This has since been resolved but now the video isn’t playing. I have spoken to my mentor and though we tried to fix the issue with embedding the link in google documents it was not fixed and so I have decided to create a carousel with a fade. This however is not showing up on the site right now. 
 
 I have had problems moving my nav bar to the middle which through watching videos on how to edit this I was able to change it. (insert link)
 I cannot seem to place my footer at the bottom and middle of the page. 
 
-The links I have in my footer are not linking with their respective sites. 
+The links I have in my footer are not linking with their respective sites. This was fixed after noticing that my links did not have https in them. 
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
