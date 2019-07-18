@@ -168,7 +168,7 @@ header {
     100% {
         width: 100%;
     }
-}
+
 
 /*----------Contact form---------*/
 
@@ -223,6 +223,4 @@ button[type="sumbit"] {
    clear: both;
 }
 
-.uppercase general-sub {
-    color: #D3D3D3;
-}
+
