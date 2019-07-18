@@ -216,11 +216,13 @@ button[type="sumbit"] {
 
 #footer {
     
-    color: 	#D3D3D3;
-   position: relative;
+    color: 	#C0C0C0;
+   position: absolute;
+   bottom: 0;
    height: 100px;
    margin-top: -100px;
    clear: both;
+   width: 100%;
 }
 
 
