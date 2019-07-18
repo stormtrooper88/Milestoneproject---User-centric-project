@@ -2,6 +2,7 @@ User-Centric Frontend Development project - Code Institute – By Thomas Christi
 
 The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the courses I that I have undertaken, those that I am yet to complete and some information about myself with finally a contact form if you wish to contact me. 
 
+This is the link for the site: https://stormtrooper88.github.io/Milestoneproject---User-centric-project/
 
 UX
 
@@ -67,14 +68,11 @@ I have had issues with the "about me" section and positioning it correctly. I ha
 
 Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+This is the link for the site: https://stormtrooper88.github.io/Milestoneproject---User-centric-project/
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+I created the GitHub Pages site following the instructions laid out on the GitHub site. 
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+I did this by entering my GitHub repository and entering the settings section. From here I went down to GitHub Pages section and choose the theme "minimal". From here I then directed to the settings page of my repository and in the Github Pages section I found the below link to my site. 
 
 If you wish to run the code locally then you can clone my git repository and run it on AWS cloud 9. 
 
