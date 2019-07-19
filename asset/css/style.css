@@ -111,6 +111,13 @@ header {
      margin-right: 100px;
 }
 
+/*----------Carousel---------*/
+
+.carousel {
+    height: fixed;
+}
+
+
 
 /*----------My skills---------*/
 
