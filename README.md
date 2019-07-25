@@ -63,7 +63,7 @@ I have tested the links at the top of the page to ensure that they direct the us
 
 I have tested the "contact me" button link to ensure that it takes the user to the contact form at the bottom of the page. 
 
-I have gone to the carousel to test whether each picture is visible. I encountered a problem here as the pictures where all different sizes. This was fixed by creating a class and modifying it in CSS so the height matched each picture. 
+I have gone to the carousel to test whether each picture is visible. I encountered a problem here as the pictures were all different sizes. This was fixed by creating a class and modifying it in CSS so the height matched each picture. 
 
 I have gone to the "contact me" page and tried to submit without completing the name section. Upon clicking the send message button, a yellow mark pops up and states that the user must fill out the name section before being able to send the message. 
 I have then filled in the name and left out the email. Upon clicking the send message button, a yellow mark pops up and states that the user must fill out the name section before being able to send the message. I have also tested inputting a random set of letters into the email section and then receive a notice stating that the @ is missing from the email section. I have tried simply entering the @ however I am told I must enter a part after the @. 
