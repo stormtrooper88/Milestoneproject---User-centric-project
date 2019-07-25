@@ -1,38 +1,32 @@
-User-Centric Frontend Development project - Code Institute – By Thomas Christian Butcher
+User-Centric Frontend Development project - The Code Institute – By Thomas Christian Butcher
 
-The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the courses that I have undertaken, those that I am yet to complete. It shows my skills as a developer which include a carousel and some information about myself with finally a contact form if you wish to contact me. 
+The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the modules that I have undertaken and those that I am yet to complete. It shows my skills as a developer which include a carousel and some information about myself with finally a Contact Me form if you wish to contact me. 
 
 This is the link for the site: https://stormtrooper88.github.io/Milestoneproject---User-centric-project/
 
 UX
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 Link to my balsamiq work: https://github.com/stormtrooper88/Milestoneproject---User-centric-project/blob/master/asset/Balsamiq/FSWD%20mock%20up.bmpr
 
 
-My goal in the design of this site was to make it user-friendly to future employers whilst informing them about myself, what I have accomplished so far and show casing some of the skills I have learnt to date. 
+My goal in the design of this site was to make it user-friendly to future employers whilst informing them about myself, what I have accomplished so far and show-casing some of the skills I have learnt to date. 
 
- The welcome caption including a short paragraph about myself with a "contact me" link that allows the user to go directly to the contact form should they wish to contact me. 
+ The welcome caption includes a short paragraph about myself with a "Contact Me" link that allows the user to go directly to the contact form should they wish to contact me. 
  
- The navbar atr the top of the site allows the user to go straight to a certain part of the site rather than scrolling down.The UX for this that the user may want to nagivate to a specific section. 
+ The navbar at the top of the site allows the user to go straight to a certain part of the site rather than scrolling down.The UX for this is that the user may want to nagivate to a specific section. 
  
  Scrolling down the user will encounter an "about me" section which gives more details about my working life before coding and gestures to the user to keep scrolling down to find out what skills I have completed.
  
- Before viewing the skills I wanted to show the user at least one of my skills. I had tried to set up a video but after trying to get it to work with the help of Code Institute and my mentor, I decided to include a carousel instead. This demonstrates a skill I learnt on my own with some help from Code Institute and my mentor. 
+ Before viewing the skills section I wanted to show the user at least one of my skills. I had tried to set up a video but after trying to get it to work with the help of Code Institute and my mentor, I decided to include a carousel instead. This demonstrates a skill I learnt on my own with some help from Code Institute and my mentor. 
  
- After this the user will reach the "my skills" section where I have created a list of subjects I am undertaking at Code Institute, under each subject is a line which aims to show the user how far along I am with that particular subject.
+ After this the user will reach the "my skills" section where I have created a list of subjects I am undertaking at the Code Institute, under each subject is a line which aims to show the user how far along I am with that particular subject.
  
-Below this the user will find a contact me form where they can contact me with their name, email and message. 
+Below this the user will find a Contact Me form where they can contact me with their name, email and message. 
 
 At the footer I have a link to my LinkedIn and GitHub accounts so that they can see my working experiences and my work so far since starting the course.
 
-The greyscale colour scheme was chosen as it went well with my picture and created a silk look to the work. 
+The greyscale colour scheme was chosen as it went well with my picture and created a easy transition, the red Code Institute picture stands out as it is red in background. 
 
 You can find in my github repository my mock ups in the asset section under balsamiq.
 
@@ -40,7 +34,7 @@ Technologies
 1.	HTML
 2.	CSS
 3.	Bootstrap Version 4.3.1
-4.	https://www.youtube.com/watch?v=05ZHUuQVvJM
+4.	How To Add a Video Background with HTML & CSS - https://www.youtube.com/watch?v=05ZHUuQVvJM
 5.	Jquery
 
 Features
@@ -103,7 +97,7 @@ Credits
 
 Content
 
-All content is written by and the background picture was taken by me. The other pictures are from the following links:  https://archsmarter.com/wp-content/uploads/2014/03/Learn-to-code1.jpg / https://i2.wp.com/s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2019/02/01124431/code-institute-header-2-e1549023510442.png
+All content is written by me and the background picture was taken by me. The other pictures are from the following links:  https://archsmarter.com/wp-content/uploads/2014/03/Learn-to-code1.jpg / https://i2.wp.com/s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2019/02/01124431/code-institute-header-2-e1549023510442.png
 
 Media
 
@@ -112,7 +106,7 @@ The pictures used in the carousel are from the following links: https://archsmar
 
 Acknowledgements
 
-I would like to acknowledge the code institute mini-project and 
-hschafer2017 (https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive)
+I would like to acknowledge the code institute, my mentor Dick and 
+hschafer2017 (https://github.com/Code-Institute-Solutions/StudentExampleProjectGradeFive). They have all helped, guided and finally inspired me to create this website. 
 
 
