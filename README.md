@@ -98,12 +98,12 @@ Credits
 
 Content
 
-All content is written by me and the background picture was taken by me. The other pictures are from the following links:  https://archsmarter.com/wp-content/uploads/2014/03/Learn-to-code1.jpg / https://i2.wp.com/s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2019/02/01124431/code-institute-header-2-e1549023510442.png
+All content is written by me and the background picture was taken by me. The other pictures are from the following links:  https://archsmarter.com/wp-content/uploads/2014/03/Learn-to-code1.jpg and https://i2.wp.com/s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2019/02/01124431/code-institute-header-2-e1549023510442.png
 
 Media
 
 The photo used in this website is from my own pictures. The video was found on the following site: https://www.videvo.net/video/typing-in-the-dark-03/4478/ - This has since been removed.
-The pictures used in the carousel are from the following links: https://archsmarter.com/wp-content/uploads/2014/03/Learn-to-code1.jpg / https://i2.wp.com/s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2019/02/01124431/code-institute-header-2-e1549023510442.png
+The pictures used in the carousel are from the following links: https://archsmarter.com/wp-content/uploads/2014/03/Learn-to-code1.jpg and https://i2.wp.com/s3-eu-west-1.amazonaws.com/sup46/wp-content/uploads/2019/02/01124431/code-institute-header-2-e1549023510442.png
 
 Acknowledgements
 
