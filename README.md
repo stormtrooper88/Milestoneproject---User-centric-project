@@ -1,13 +1,13 @@
 User-Centric Frontend Development project - The Code Institute – By Thomas Christian Butcher
 
-The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the modules that I have undertaken and those that I am yet to complete. It shows my skills as a developer which include a carousel and some information about myself with finally a Contact Me form if you wish to contact me. 
+The overview of the project "Full Stack Web Developer" is to create a website focused on demonstrating my skills as a Full Stack Web Developer. It aims to show to prospective employers the modules that I have undertaken and those that I am yet to complete. It shows my skills as a developer which include a carousel, NavBar and some information about myself with finally a Contact Me form if you wish to contact me. 
 
 This is the link for the site: https://stormtrooper88.github.io/Milestoneproject---User-centric-project/
 
 UX
 
 
-Link to my balsamiq work: https://github.com/stormtrooper88/Milestoneproject---User-centric-project/blob/master/asset/Balsamiq/FSWD%20mock%20up.bmpr
+(Link to my balsamiq mock up)[https://ibb.co/Q9V4rFG]
 
 
 My goal in the design of this site was to make it user-friendly to future employers whilst informing them about myself, what I have accomplished so far and show-casing some of the skills I have learnt to date. 
@@ -28,7 +28,6 @@ At the footer I have a link to my LinkedIn and GitHub accounts so that they can 
 
 The greyscale colour scheme was chosen as it went well with my picture and created a easy transition, the red Code Institute picture stands out as it is red in background. 
 
-You can find in my github repository my mock ups in the asset section under balsamiq.
 
 Technologies
 1.	HTML
@@ -50,7 +49,7 @@ I would like to fix the white space found between the intro message and the abou
 
 Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+
 1.	Bootstrap Version 4.3.1 https://getbootstrap.com/
 2.	Jquery This was needed to make the carousel work
 3.	HTML5 and CSS3 beginner tutorial 18 – background images{Part 2} https://www.youtube.com/watch?v=xNg2rh_h5v8
@@ -89,9 +88,11 @@ This is the link for the site: https://stormtrooper88.github.io/Milestoneproject
 
 I created the GitHub Pages site following the instructions laid out on the GitHub site. 
 
-I did this by entering my GitHub repository and entering the settings section. From here I went down to GitHub Pages section and choose the theme "minimal". From here I then directed to the settings page of my repository and in the Github Pages section I found the link provided at the start of this README.nd
+I did this by entering my GitHub repository and entering the settings section. From here I went down to GitHub Pages section and choose the theme "minimal". From here I was then directed to the settings page of my repository and in the Github Pages section I found the link provided at the start of this README.nd
 
-If you wish to run the code locally then you can clone my git repository and run it on AWS cloud 9. 
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/hschafer2017/HSCHAFER-Portfolio.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
+
+If you wish to run the code locally then you can clone my git repository and run it an editor such as Visual Studio Code. A
 
 Credits
 
