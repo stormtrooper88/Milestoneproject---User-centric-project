@@ -70,7 +70,7 @@ I have then filled in the name and left out the email. Upon clicking the send me
 Once I have filled in both the name and email section of the form, I am told that my message won't send until a message has been written. 
 With all the information filled in, the page reloads and the contact me form is blank again. 
 
-
+I tried to follow the "Always Design for Mobile First" from : https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 I am currently having trouble with my video being loaded onto the page. This was meant as a video to welcome the user message and so should be seen regularly. – This has since been resolved but now the video isn’t playing. I have spoken to my mentor and though we tried to fix the issue with embedding the link in google documents it was not fixed and so I have decided to create a carousel with a fade. This however is not showing up on the site right now which was fixed by adding images to the carousel.  
 
@@ -86,13 +86,13 @@ Deployment
 
 This is the link for the site: https://stormtrooper88.github.io/Milestoneproject---User-centric-project/
 
-I created the GitHub Pages site following the instructions laid out on the GitHub site. 
+I created the GitHub Pages site following the instructions laid out on the GitHub site. All the new commits are sent to the master branch and then edited into the live version of the site. 
 
 I did this by entering my GitHub repository and entering the settings section. From here I went down to GitHub Pages section and choose the theme "minimal". From here I was then directed to the settings page of my repository and in the Github Pages section I found the link provided at the start of this README.nd
 
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/hschafer2017/HSCHAFER-Portfolio.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
-If you wish to run the code locally then you can clone my git repository and run it an editor such as Visual Studio Code. A
+If you wish to run the code locally then you can clone my git repository and run it an editor such as Visual Studio Code. Simply past git clone https://github.com/stormtrooper88/Milestoneproject---User-centric-project into your terminal. Once you have done this you will want to stop the connection with the GitHub repository. You do this by typing into your termal git remote rm origin.
+
 
 Credits
 
