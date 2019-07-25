@@ -45,7 +45,7 @@ Features Left to Implement
 
 I would like to have different languages in the menu bar as I speak French and Danish. 
 
-I would like to fix the white space found between the intro message and the about me section. 
+I would like to have implemented a functioning video.
 
 Technologies Used
 
